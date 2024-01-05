@@ -46,8 +46,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/InnocentiusHasnain)
+ 📧 &emsp; Reach me anytime: hasnaindeveloper786@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://portfolio-hasnain-786.netlify.app/#contact)
 
 </p>
 
