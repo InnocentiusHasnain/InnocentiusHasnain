@@ -17,7 +17,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Innocentius + Hasnain">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Pakistan</b> 」
+    「 I am a full stack web application developer 」
     <br>
     <br>
   </samp>
